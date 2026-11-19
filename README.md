@@ -1,5 +1,6 @@
 Maven Market Sales Analysis Dashboard
 ## Dashboard Screenshot
+https://github.com/neharayate/Maven_Market_Analysis/blob/main/Mavan_Market_Dashbord%20ScreenShot.png
 Project Overview
 -This project focuses on analyzing Maven Market sales performance using Power BI.The dashboard provieds using insights into sales transactions, profit, returns, product brands, stores, and revenue trends.
 Tools & Technologies Used:
